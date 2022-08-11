@@ -1,0 +1,2 @@
+#child create
+print(2+2)
